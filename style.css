@@ -1,0 +1,30 @@
+body {
+  background-color: pink;
+  color: black;
+  font-family: Comic Sans MS, cursive;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.container {
+  border: 5px dashed red;
+  padding: 20px;
+  margin: auto;
+  width: 80%;
+  background-color: yellow;
+  border-radius: 15px;
+}
+
+button {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: black;
+}
